@@ -3,8 +3,8 @@
         "source_csv": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_SUJI_10_IDI_AN.csv",
         "output_json": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_SUJI_10_IDI_AN_MBDS.json",
         "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-07-03T22:56:53.974568",
-        "sentence_count": 30,
+        "generated_on": "2025-07-04T13:14:44.400549",
+        "example_idiom_sentence_count": 30,
         "format_description": "Dict[str, List[float]] - sentence to embedding mapping"
     },
     "embeddings": {
