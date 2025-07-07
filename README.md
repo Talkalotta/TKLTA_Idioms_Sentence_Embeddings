@@ -47,9 +47,8 @@ SCEN, SCGA, SK, SUJI, TA, UKEN, USEN, XH, ZAEN, ZHCH
 
 Each code corresponds to a particular language or locale used by Talkalotta.
 
-## License
+Some files use native scripts or region‑specific orthographies. Lines may not be strictly normalized, so minor formatting differences are expected.
 
-The data are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). When using these embeddings, please attribute them as follows:
+---
 
-> "**TKLTA Idioms Sentence Embeddings** by **Talkalotta**, part of the Talkalotta Corpora, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
-
+These datasets are provided "as is" without warranty. They are intended for language learning, linguistics research, and natural language processing experiments.
