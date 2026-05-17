@@ -1,14 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:\\Users\\talka\\OneDrive\\Desktop\\Talkalotta_LaBSE\\venv\\TKLTA_Runespace\\TKLTA_TUR_10_IDI_AN.csv",
-        "source_csv_size_bytes": 5452,
-        "output_json": "C:\\Users\\talka\\OneDrive\\Desktop\\Talkalotta_LaBSE\\venv\\TKLTA_Runespace\\TUR\\TKLTA_TUR_10_IDI_AN_MBDS.json",
-        "output_json_size_kb": 761.73,
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-08-05T01:18:41.812582",
-        "example_idiom_sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "Daha projeye onay bile çıkmadı ama o dereyi görmeden paçaları sıvamış.": [
             1.570641040802002,
