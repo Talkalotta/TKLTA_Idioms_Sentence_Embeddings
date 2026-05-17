@@ -1,14 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:\\Users\\talka\\OneDrive\\Desktop\\Talkalotta_LaBSE\\venv\\TKLTA_Runespace\\TKLTA_KO_10_IDI_AN.csv",
-        "source_csv_size_bytes": 5963,
-        "output_json": "C:\\Users\\talka\\OneDrive\\Desktop\\Talkalotta_LaBSE\\venv\\TKLTA_Runespace\\TKLTA_KO_10_IDI_AN_MBDS.json",
-        "output_json_size_kb": 763.39,
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-08-15T16:56:09.920278",
-        "sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "그는 승진이 물 건너가자 닭 쫓던 개 지붕 쳐다보는 표정을 지었다.": [
             0.24677824974060059,
