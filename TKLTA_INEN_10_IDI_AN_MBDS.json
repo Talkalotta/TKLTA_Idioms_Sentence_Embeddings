@@ -1,12 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_INEN_10_IDI_AN.csv",
-        "output_json": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_INEN_10_IDI_AN_MBDS.json",
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-07-04T21:53:59.942033",
-        "example_idiom_sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "Her comeback was a tight slap to all those who doubted her abilities.": [
             0.15876178443431854,
