@@ -1,12 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_ECES_10_IDI_AN.csv",
-        "output_json": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/TKLTA_ECES_10_IDI_AN_MBDS.json",
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-07-06T15:06:02.858839",
-        "example_idiom_sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "Cuando le tocó hablar en público, estaba hecho un cuy.": [
             -0.03856371343135834,
