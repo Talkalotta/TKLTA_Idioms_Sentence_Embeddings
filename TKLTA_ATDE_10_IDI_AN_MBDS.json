@@ -1,13 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace//TKLTA_ATDE_10_IDI_AN.csv",
-        "output_json": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/ATDE/TKLTA_ATDE_10_IDI_AN_MBDS.json",
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-07-17T18:31:38.888329",
-        "idiom_file_size": 763.4,
-        "example_idiom_sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "Kummst um fümfe? – Joa, des geht si aus.": [
             0.39145779609680176,
