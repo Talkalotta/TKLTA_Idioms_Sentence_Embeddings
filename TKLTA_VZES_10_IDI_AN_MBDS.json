@@ -1,13 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace//TKLTA_VZES_10_IDI_AN.csv",
-        "output_json": "C:/Users/96bra/OneDrive/Desktop/Talkalotta_GMBDs/venv/TKLTA_Runespace/VZES/TKLTA_VZES_10_IDI_AN_MBDS.json",
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-07-10T18:06:47.262239",
-        "idiom_file_size": 763.71,
-        "example_idiom_sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "Después de esa rumba, estoy como guayabita de Totuma.": [
             0.18756000697612762,
