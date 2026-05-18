@@ -1,14 +1,4 @@
 {
-    "metadata": {
-        "source_csv": "C:\\Users\\96bra\\OneDrive\\Desktop\\Talkalotta_GMBDs\\venv\\TKLTA_Runespace\\TKLTA_IQ_10_IDI_AN.csv",
-        "source_csv_size_bytes": 5330,
-        "output_json": "C:\\Users\\96bra\\OneDrive\\Desktop\\Talkalotta_GMBDs\\venv\\TKLTA_Runespace\\TKLTA_IQ_10_IDI_AN_MBDS.json",
-        "output_json_size_kb": 765.1,
-        "model_used": "sentence-transformers/LaBSE",
-        "generated_on": "2025-08-08T21:08:51.338231",
-        "sentence_count": 30,
-        "format_description": "Dict[str, List[float]] - idiom to embedding mapping"
-    },
     "embeddings": {
         "كلشي سويتله وضل يشتكي، ما يعجبه العجب ولا الصيام برجب!": [
             0.7686331868171692,
